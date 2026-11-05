@@ -2,7 +2,7 @@
 
 O **KwanzaFlow** é um protótipo de sistema de pagamentos instantâneos (estilo PIX/Kwik) desenvolvido para simular transações financeiras seguras através de redes móveis de baixa largura de banda (tecnologia USSD). 
 
-O projeto foi desenhado especificamente para responder a dois grandes desafios estruturais de mercados informais em mercados emergentes (como a Praça dos Congolenses, em Luanda): a **exclusão digital** (alto uso de *feature phones* ou telefones de botão) e a **insegurança física** (risco de assaltos ao expor smartphones em público).
+O projeto foi desenhado especificamente para responder a dois grandes desafios estruturais de mercados informais em mercados emergentes: a **exclusão digital** (alto uso de *feature phones* ou telefones de botão) e a **insegurança física** (risco de assaltos ao expor smartphones em público).
 
 ---
 
